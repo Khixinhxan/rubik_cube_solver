@@ -1,0 +1,4 @@
+/rubik_cube_env
+/__pycache__
+.ipynb_checkpoints
+heuristic.json
